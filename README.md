@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **the C/C++ lang**
 
-- 📫 How to reach me [email] **hallfana@proton.me**
+- 📫 How to reach me (discord in bio) **hallfana@proton.me**
 
 - ⚡ Fun fact **i'm a femboy**
 
