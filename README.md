@@ -1,3 +1,6 @@
+
+![final](https://github.com/user-attachments/assets/0e73d0f9-73b2-4482-8da9-6d210fb9aaca)
+
 <h1 align="center">Hallo ✌️, I'm Hallfana</h1>
 
 - 🔭 I’m currently working on my [42school cursus](https://42.fr/en/homepage/)
