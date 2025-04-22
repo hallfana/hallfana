@@ -1,5 +1,6 @@
 
-![final](https://github.com/user-attachments/assets/0e73d0f9-73b2-4482-8da9-6d210fb9aaca)
+![1745307245_new_nuclear-cheers (1)](https://github.com/user-attachments/assets/659a86a4-b977-451d-bb09-1bae1561ad2b)
+
 
 <h1 align="center">Hallo ✌️, I'm Hallfana</h1>
 
