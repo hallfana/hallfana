@@ -10,7 +10,7 @@
 
 - 📫 How to reach me (discord in bio) **hallfana@proton.me**
 
-- ⚡ Fun fact **i'm a femboy**
+- ⚡ Fun fact **i'm a femboy**, minishell is a retarded project
 
 <p align="left">
 </p>
