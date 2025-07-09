@@ -1,16 +1,11 @@
-
 ![1745307245_new_nuclear-cheers (1)](https://github.com/user-attachments/assets/659a86a4-b977-451d-bb09-1bae1561ad2b)
-
 
 <h1 align="center">Hallo ✌️, I'm Hallfana</h1>
 
 - 🔭 I’m currently working on my [42school cursus](https://42.fr/en/homepage/)
-
 - 🌱 I’m currently learning **the C/C++ lang**
-
 - 📫 How to reach me (discord in bio) **hallfana@proton.me**
-
-- ⚡ Fun fact **i'm a femboy**, minishell is a retarded project
+- ⚡ Fun fact **I'm a femboy & I support people that are different**
 
 <p align="left">
 </p>
