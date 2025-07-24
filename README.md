@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I'm a femboy & I support people that are different**
 
 [![My Skills](https://skillicons.dev/icons?i=actix,arch,bash,bootstrap,c,cs,cpp,cloudflare,html,htmx,css,js,debian,docker,dotnet,electron,git,github,go,ipfs,kali,nginx,nim,npm,perl,php,pnpm,postman,powershell,pycharm,py,qt,redis,regex,rust,sqlite,sublime,selenium,tauri,vim,visualstudio,vscode,vscodium,windows,yew)](https://skillicons.dev)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hallfana&label=Profile%20views&color=0e75b6&style=flat" alt="hallfana" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hallfana&show_icons=true&locale=en&layout=compact" alt="hallfana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hallfana&show_icons=true&locale=en" alt="hallfana" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hallfana&label=Profile%20views&color=0e75b6&style=flat" alt="hallfana" />
+</p>
